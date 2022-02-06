@@ -1,4 +1,5 @@
 print ('hello GitHub')
 
 h = 1
-print (44 + h)
+a = 3
+print (a + h)
